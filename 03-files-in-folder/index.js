@@ -1,0 +1,1 @@
+process.on('exit', () => process.stdout.write('Удачи в изучении Node.js!'));
